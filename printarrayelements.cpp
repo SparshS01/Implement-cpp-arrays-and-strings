@@ -16,4 +16,10 @@ int main() {
     
     cout << endl;
     return 0;
+
 }
+/*OUTPUT 
+Enter 5 integers:  11 22 33 44 55
+Array elements are: 11 22 33 44 55  
+
+    */
