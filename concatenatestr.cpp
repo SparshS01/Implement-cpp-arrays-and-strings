@@ -18,7 +18,8 @@ int main() {
     return 0;
 }
 /*OUTPUT 
-Enter the first string: Sangini
-Enter the second string: Verma
-Concatenated string: SanginiVerma
+Enter the first string: Sparsh
+Enter the second string: Srivastava
+Concatenated string: SparshSrivastava
+
 */
